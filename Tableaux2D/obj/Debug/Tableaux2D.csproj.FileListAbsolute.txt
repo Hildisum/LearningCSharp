@@ -1,0 +1,7 @@
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\bin\Debug\Tableaux2D.exe.config
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\bin\Debug\Tableaux2D.exe
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\bin\Debug\Tableaux2D.pdb
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\obj\Debug\Tableaux2D.csproj.CoreCompileInputs.cache
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\obj\Debug\Tableaux2D.exe
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\obj\Debug\Tableaux2D.pdb
+C:\Users\Goraz\Documents\C#2019\Tableaux2D\Tableaux2D\obj\Debug\Tableaux2D.csprojResolveAssemblyReference.cache
